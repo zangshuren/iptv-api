@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-21 19:06:04,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2025-11-22 07:02:05,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -620,7 +620,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
-广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv$订阅源
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
@@ -712,17 +712,17 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 快乐垂钓,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~RHz0NOpqUZZN1Iz6lVLkkg~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNSiF8rKF1Pn2LepKMJ2cEG%2CEND$订阅源
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8
 快乐垂钓,https://cc06.tv12.xyz/56.m3u8
+快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 快乐垂钓,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
 快乐垂钓,rtsp://115.153.245.70/PLTV/88888888/224/3221226834/59781974.smil$订阅源
 快乐垂钓,rtsp://115.153.254.81/PLTV/88888888/224/3221226834/59781974.smil$订阅源
 快乐垂钓,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226834/59781974.smil$订阅源
 快乐垂钓,rtsp://115.153.212.72/PLTV/88888888/224/3221226834/59781974.smil$订阅源
-快乐垂钓,rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil$订阅源
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983$订阅源
 JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🎵音乐频道,#genre#
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8$订阅源
