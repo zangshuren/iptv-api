@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-17 19:03:13,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-18 06:59:21,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -620,7 +620,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8
-广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
@@ -739,8 +739,8 @@ CCTV-15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/
 风云音乐,https://radio.0472.org/?id=641
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
-风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil$订阅源
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil$订阅源
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil$订阅源
