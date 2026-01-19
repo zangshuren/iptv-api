@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-19 07:02:22,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-19 19:11:20,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -620,7 +620,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8
-广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv$订阅源
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
@@ -645,9 +645,9 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000$订阅源
 劲爆体育,http://3501776.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv$订阅源
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630$订阅源
 爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281$订阅源
 爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281$订阅源
@@ -682,8 +682,8 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 山东体育,http://123.130.84.106:8154/tsfile/live/1006_1.m3u8
 山东体育,http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8$订阅源
@@ -736,8 +736,8 @@ CCTV-15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?ch
 CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$订阅源
 CCTV-15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8$订阅源
 风云音乐,https://radio.0472.org/?id=641
-风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil$订阅源
