@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260325113138 +0800">
+<tv date="20260325232144 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8202,144 +8202,6 @@
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>
 	</channel>
-	<programme channel="西藏卫视" start="20260325002700 +0800" stop="20260325011400 +0800">
-		<title lang="zh">无间(28)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325011400 +0800" stop="20260325020000 +0800">
-		<title lang="zh">闯关东(17)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325020000 +0800" stop="20260325053200 +0800">
-		<title lang="zh">检修</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325053200 +0800" stop="20260325060400 +0800">
-		<title lang="zh">美丽西藏</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325060400 +0800" stop="20260325064600 +0800">
-		<title lang="zh">大决战(47)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325064600 +0800" stop="20260325070000 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325070000 +0800" stop="20260325070500 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325070500 +0800" stop="20260325075000 +0800">
-		<title lang="zh">大决战(48)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325075000 +0800" stop="20260325080200 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325080200 +0800" stop="20260325081400 +0800">
-		<title lang="zh">歌曲:攀登</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325081400 +0800" stop="20260325083000 +0800">
-		<title lang="zh">跟我学藏语</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325083000 +0800" stop="20260325090200 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325090200 +0800" stop="20260325094600 +0800">
-		<title lang="zh">薛平贵与王宝钏(45)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325094600 +0800" stop="20260325100100 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325100100 +0800" stop="20260325104500 +0800">
-		<title lang="zh">薛平贵与王宝钏(46)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325104500 +0800" stop="20260325110200 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325110200 +0800" stop="20260325114600 +0800">
-		<title lang="zh">薛平贵与王宝钏(47)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325114600 +0800" stop="20260325120100 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325120100 +0800" stop="20260325124300 +0800">
-		<title lang="zh">薛平贵与王宝钏(48)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325124300 +0800" stop="20260325130000 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325130000 +0800" stop="20260325132100 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325132100 +0800" stop="20260325134900 +0800">
-		<title lang="zh">延安游击队</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325134900 +0800" stop="20260325140200 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325140200 +0800" stop="20260325143000 +0800">
-		<title lang="zh">延安游击队</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325143000 +0800" stop="20260325144300 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325144300 +0800" stop="20260325151100 +0800">
-		<title lang="zh">延安游击队</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325151100 +0800" stop="20260325152400 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325152400 +0800" stop="20260325152900 +0800">
-		<title lang="zh">延安游击队</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325152900 +0800" stop="20260325154500 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325154500 +0800" stop="20260325161600 +0800">
-		<title lang="zh">美丽西藏</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325161600 +0800" stop="20260325164400 +0800">
-		<title lang="zh">地道战</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325164400 +0800" stop="20260325165700 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325165700 +0800" stop="20260325172500 +0800">
-		<title lang="zh">地道战</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325172500 +0800" stop="20260325173800 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325173800 +0800" stop="20260325180600 +0800">
-		<title lang="zh">地道战</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325180600 +0800" stop="20260325181900 +0800">
-		<title lang="zh">创收栏目</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325181900 +0800" stop="20260325182600 +0800">
-		<title lang="zh">地道战</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325182600 +0800" stop="20260325190000 +0800">
-		<title lang="zh">邦锦梅朵</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325190000 +0800" stop="20260325193000 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325193000 +0800" stop="20260325200400 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325200400 +0800" stop="20260325201400 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325201400 +0800" stop="20260325215400 +0800">
-		<title lang="zh">奔跑吧天路篇(3)</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325215400 +0800" stop="20260325223000 +0800">
-		<title lang="zh">美丽西藏</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325223000 +0800" stop="20260325230200 +0800">
-		<title lang="zh">西藏新闻联播</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325230200 +0800" stop="20260325231900 +0800">
-		<title lang="zh">跟我学藏语</title>
-	</programme>
-	<programme channel="西藏卫视" start="20260325231900 +0800" stop="20260326000400 +0800">
-		<title lang="zh">大道之行探索中国式现代化(3)</title>
-	</programme>
 	<programme channel="西藏卫视" start="20260326000400 +0800" stop="20260326005500 +0800">
 		<title lang="zh">无间(29)</title>
 	</programme>
@@ -8496,66 +8358,159 @@
 	<programme channel="西藏卫视" start="20260326231300 +0800" stop="20260327000000 +0800">
 		<title lang="zh">大道之行探访中国式现代化(4)</title>
 	</programme>
+	<programme channel="西藏卫视" start="20260327000000 +0800" stop="20260327005300 +0800">
+		<title lang="zh">无间(30)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327005300 +0800" stop="20260327013000 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327013000 +0800" stop="20260327021900 +0800">
+		<title lang="zh">闯关东(20)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327021900 +0800" stop="20260327030400 +0800">
+		<title lang="zh">闯关东(21)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327030400 +0800" stop="20260327033600 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327033600 +0800" stop="20260327042700 +0800">
+		<title lang="zh">归队(28)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327042700 +0800" stop="20260327051800 +0800">
+		<title lang="zh">归队(29)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327051800 +0800" stop="20260327052900 +0800">
+		<title lang="zh">读·行·西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327052900 +0800" stop="20260327060100 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327060100 +0800" stop="20260327064500 +0800">
+		<title lang="zh">神枪(2)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327064500 +0800" stop="20260327070000 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327070000 +0800" stop="20260327070500 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327070500 +0800" stop="20260327074700 +0800">
+		<title lang="zh">神枪(3)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327074700 +0800" stop="20260327081300 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327081300 +0800" stop="20260327083000 +0800">
+		<title lang="zh">跟我学藏语</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327083000 +0800" stop="20260327090000 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327090000 +0800" stop="20260327094400 +0800">
+		<title lang="zh">西游记(5)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327094400 +0800" stop="20260327100000 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327100000 +0800" stop="20260327104400 +0800">
+		<title lang="zh">西游记(6)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327104400 +0800" stop="20260327105900 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327105900 +0800" stop="20260327114300 +0800">
+		<title lang="zh">西游记(7)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327114300 +0800" stop="20260327115700 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327115700 +0800" stop="20260327124100 +0800">
+		<title lang="zh">西游记(8)</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327124100 +0800" stop="20260327130000 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327130000 +0800" stop="20260327132100 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327132100 +0800" stop="20260327134900 +0800">
+		<title lang="zh">鸡毛信</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327134900 +0800" stop="20260327140200 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327140200 +0800" stop="20260327143000 +0800">
+		<title lang="zh">鸡毛信</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327143000 +0800" stop="20260327144300 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327144300 +0800" stop="20260327151100 +0800">
+		<title lang="zh">鸡毛信</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327151100 +0800" stop="20260327152400 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327152400 +0800" stop="20260327152900 +0800">
+		<title lang="zh">鸡毛信</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327152900 +0800" stop="20260327154500 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327154500 +0800" stop="20260327161600 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327161600 +0800" stop="20260327164400 +0800">
+		<title lang="zh">独立大队</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327164400 +0800" stop="20260327165700 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327165700 +0800" stop="20260327172500 +0800">
+		<title lang="zh">独立大队</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327172500 +0800" stop="20260327173800 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327173800 +0800" stop="20260327180600 +0800">
+		<title lang="zh">独立大队</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327180600 +0800" stop="20260327181900 +0800">
+		<title lang="zh">创收栏目</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327181900 +0800" stop="20260327182600 +0800">
+		<title lang="zh">独立大队</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327182600 +0800" stop="20260327190000 +0800">
+		<title lang="zh">邦锦梅朵</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327190000 +0800" stop="20260327193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327193000 +0800" stop="20260327201100 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327201100 +0800" stop="20260327201700 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327201700 +0800" stop="20260327215400 +0800">
+		<title lang="zh">非遗里的中国:西藏篇</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327215400 +0800" stop="20260327223000 +0800">
+		<title lang="zh">美丽西藏</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327223000 +0800" stop="20260327230200 +0800">
+		<title lang="zh">西藏新闻联播</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327230200 +0800" stop="20260327231400 +0800">
+		<title lang="zh">跟我学藏语</title>
+	</programme>
+	<programme channel="西藏卫视" start="20260327231400 +0800" stop="20260328000000 +0800">
+		<title lang="zh">大道之行探访中国式现代化(5)</title>
+	</programme>
 	<channel id="风云足球">
 		<display-name lang="zh">风云足球</display-name>
 	</channel>
-	<programme channel="风云足球" start="20260325011500 +0800" stop="20260325024000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第18轮 利物浦-伍尔弗汉普顿(4K)</title>
-	</programme>
-	<programme channel="风云足球" start="20260325024000 +0800" stop="20260325040500 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第18轮 桑德兰-利兹联(4K)</title>
-	</programme>
-	<programme channel="风云足球" start="20260325040500 +0800" stop="20260325053000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第19轮 阿森纳-阿斯顿维拉</title>
-	</programme>
-	<programme channel="风云足球" start="20260325053000 +0800" stop="20260325065500 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第19轮 利物浦-利兹联</title>
-	</programme>
-	<programme channel="风云足球" start="20260325065500 +0800" stop="20260325082000 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第20轮 伍尔夫汉普顿-西汉姆联</title>
-	</programme>
-	<programme channel="风云足球" start="20260325082000 +0800" stop="20260325094500 +0800">
-		<title lang="zh">国际足球赛场-25-26赛季英超联赛第20轮 富勒姆-利物浦</title>
-	</programme>
-	<programme channel="风云足球" start="20260325094500 +0800" stop="20260325111000 +0800">
-		<title lang="zh">国际足球赛场-2025南美解放者杯16强淘汰赛第二回合 巴西国际-巴西弗拉门戈</title>
-	</programme>
-	<programme channel="风云足球" start="20260325111000 +0800" stop="20260325123500 +0800">
-		<title lang="zh">国际足球赛场-2025南美解放者杯16强淘汰赛第二回合 巴西帕尔梅拉斯-秘鲁体育大学</title>
-	</programme>
-	<programme channel="风云足球" start="20260325123500 +0800" stop="20260325130500 +0800">
-		<title lang="zh">2025/2026法国足球甲级联赛-第27轮集锦</title>
-	</programme>
-	<programme channel="风云足球" start="20260325130500 +0800" stop="20260325143000 +0800">
-		<title lang="zh">2025/2026西班牙足球甲级联赛-第14轮(塞维利亚-皇家贝蒂斯)</title>
-	</programme>
-	<programme channel="风云足球" start="20260325143000 +0800" stop="20260325155500 +0800">
-		<title lang="zh">2025/2026西班牙足球甲级联赛-第15轮(皇家贝蒂斯-巴塞罗那)</title>
-	</programme>
-	<programme channel="风云足球" start="20260325155500 +0800" stop="20260325172000 +0800">
-		<title lang="zh">国际足球赛场-2025南美解放者杯半决赛次回合 阿根廷竞赛-巴西弗拉门戈</title>
-	</programme>
-	<programme channel="风云足球" start="20260325172000 +0800" stop="20260325184500 +0800">
-		<title lang="zh">国际足球赛场-2025南美解放者杯半决赛首回合 厄瓜多尔基多体育大学-巴西帕尔梅拉斯</title>
-	</programme>
-	<programme channel="风云足球" start="20260325184500 +0800" stop="20260325191000 +0800">
-		<title lang="zh">2025/2026法国足球甲级联赛-第26轮集锦</title>
-	</programme>
-	<programme channel="风云足球" start="20260325191000 +0800" stop="20260325194000 +0800">
-		<title lang="zh">2025/2026法国足球甲级联赛-第27轮集锦</title>
-	</programme>
-	<programme channel="风云足球" start="20260325194000 +0800" stop="20260325210000 +0800">
-		<title lang="zh">2025/2026西班牙足球甲级联赛-第29轮(塞尔塔-阿拉维斯)</title>
-	</programme>
-	<programme channel="风云足球" start="20260325210000 +0800" stop="20260325222500 +0800">
-		<title lang="zh">2025/2026德国足球甲级联赛-第27轮(拜仁慕尼黑-柏林联)</title>
-	</programme>
-	<programme channel="风云足球" start="20260325222500 +0800" stop="20260325235000 +0800">
-		<title lang="zh">国际足球赛场-2025南美解放者杯16强淘汰赛第二回合 巴西国际-巴西弗拉门戈</title>
-	</programme>
-	<programme channel="风云足球" start="20260325235000 +0800" stop="20260326011500 +0800">
-		<title lang="zh">国际足球赛场-2025南美解放者杯16强淘汰赛第二回合 巴西帕尔梅拉斯-秘鲁体育大学</title>
-	</programme>
 	<programme channel="风云足球" start="20260326011500 +0800" stop="20260326024000 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季英超联赛第19轮 阿森纳-阿斯顿维拉</title>
 	</programme>
@@ -8613,60 +8568,66 @@
 	<programme channel="风云足球" start="20260326235000 +0800" stop="20260327011500 +0800">
 		<title lang="zh">国际足球赛场-2025南美解放者杯1/4决赛次回合 阿根廷竞赛-阿根廷萨斯菲尔德</title>
 	</programme>
+	<programme channel="风云足球" start="20260327011500 +0800" stop="20260327024000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第20轮 伍尔夫汉普顿-西汉姆联</title>
+	</programme>
+	<programme channel="风云足球" start="20260327024000 +0800" stop="20260327040500 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第20轮 富勒姆-利物浦</title>
+	</programme>
+	<programme channel="风云足球" start="20260327040500 +0800" stop="20260327053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第21轮 西汉姆联-诺丁汉森林</title>
+	</programme>
+	<programme channel="风云足球" start="20260327053000 +0800" stop="20260327065500 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第21轮 富勒姆-切尔西</title>
+	</programme>
+	<programme channel="风云足球" start="20260327065500 +0800" stop="20260327082000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第22轮 曼联-曼城</title>
+	</programme>
+	<programme channel="风云足球" start="20260327082000 +0800" stop="20260327094500 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第22轮 伍尔弗汉普顿-纽卡斯尔联(4K)</title>
+	</programme>
+	<programme channel="风云足球" start="20260327094500 +0800" stop="20260327111000 +0800">
+		<title lang="zh">国际足球赛场-2025南美解放者杯1/4决赛次回合 阿根廷竞赛-阿根廷萨斯菲尔德</title>
+	</programme>
+	<programme channel="风云足球" start="20260327111000 +0800" stop="20260327123500 +0800">
+		<title lang="zh">国际足球赛场-2025南美解放者杯1/4决赛次回合 巴西帕尔梅拉斯-阿根廷河床</title>
+	</programme>
+	<programme channel="风云足球" start="20260327123500 +0800" stop="20260327130500 +0800">
+		<title lang="zh">2025/2026英格兰足球超级联赛-第31轮集锦</title>
+	</programme>
+	<programme channel="风云足球" start="20260327130500 +0800" stop="20260327143000 +0800">
+		<title lang="zh">2025/2026西班牙足球甲级联赛-第15轮(巴伦西亚-塞维利亚)(4K)</title>
+	</programme>
+	<programme channel="风云足球" start="20260327143000 +0800" stop="20260327155500 +0800">
+		<title lang="zh">2025/2026西班牙足球甲级联赛-第16轮(巴塞罗那-奥萨苏纳)</title>
+	</programme>
+	<programme channel="风云足球" start="20260327155500 +0800" stop="20260327172000 +0800">
+		<title lang="zh">国际足球赛场-2025南美解放者杯半决赛次回合 巴西帕尔梅拉斯-厄瓜多尔基多体育大学</title>
+	</programme>
+	<programme channel="风云足球" start="20260327172000 +0800" stop="20260327184500 +0800">
+		<title lang="zh">国际足球赛场-2025南美杯半决赛首回合 智利大学-拉努斯</title>
+	</programme>
+	<programme channel="风云足球" start="20260327184500 +0800" stop="20260327191000 +0800">
+		<title lang="zh">2025/2026英格兰足球超级联赛-第30轮集锦</title>
+	</programme>
+	<programme channel="风云足球" start="20260327191000 +0800" stop="20260327194000 +0800">
+		<title lang="zh">2025/2026英格兰足球超级联赛-第31轮集锦</title>
+	</programme>
+	<programme channel="风云足球" start="20260327194000 +0800" stop="20260327210000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第31轮 托特纳姆-诺丁汉森林</title>
+	</programme>
+	<programme channel="风云足球" start="20260327210000 +0800" stop="20260327222500 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第31轮 富勒姆-伯恩利</title>
+	</programme>
+	<programme channel="风云足球" start="20260327222500 +0800" stop="20260327235000 +0800">
+		<title lang="zh">国际足球赛场-2025南美解放者杯1/4决赛次回合 阿根廷竞赛-阿根廷萨斯菲尔德</title>
+	</programme>
+	<programme channel="风云足球" start="20260327235000 +0800" stop="20260328011500 +0800">
+		<title lang="zh">国际足球赛场-2025南美解放者杯1/4决赛次回合 巴西帕尔梅拉斯-阿根廷河床</title>
+	</programme>
 	<channel id="风云音乐">
 		<display-name lang="zh">风云音乐</display-name>
 	</channel>
-	<programme channel="风云音乐" start="20260325010700 +0800" stop="20260325070000 +0800">
-		<title lang="zh">一起音乐吧</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325070000 +0800" stop="20260325082800 +0800">
-		<title lang="zh">聆听时刻</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325082800 +0800" stop="20260325092900 +0800">
-		<title lang="zh">精彩音乐汇</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325092900 +0800" stop="20260325102900 +0800">
-		<title lang="zh">合唱先锋:世间有爱</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325102900 +0800" stop="20260325112900 +0800">
-		<title lang="zh">一起音乐吧</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325112900 +0800" stop="20260325124600 +0800">
-		<title lang="zh">星光大道</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325124600 +0800" stop="20260325131600 +0800">
-		<title lang="zh">中国节拍</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325131600 +0800" stop="20260325141600 +0800">
-		<title lang="zh">合唱先锋:星光无限</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325141600 +0800" stop="20260325151700 +0800">
-		<title lang="zh">民歌·中国:故乡回响故乡的情(2)</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325151700 +0800" stop="20260325161700 +0800">
-		<title lang="zh">一起音乐吧:风从山那边来(2)</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325161700 +0800" stop="20260325173400 +0800">
-		<title lang="zh">星光大道</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325173400 +0800" stop="20260325183400 +0800">
-		<title lang="zh">精彩音乐汇</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325183400 +0800" stop="20260325193400 +0800">
-		<title lang="zh">合唱先锋:佳期如梦</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325193400 +0800" stop="20260325204400 +0800">
-		<title lang="zh">民歌·中国:春意融融的新年(1)</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325204400 +0800" stop="20260325214500 +0800">
-		<title lang="zh">一起音乐吧</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325214500 +0800" stop="20260325230100 +0800">
-		<title lang="zh">星光大道</title>
-	</programme>
-	<programme channel="风云音乐" start="20260325230100 +0800" stop="20260326000100 +0800">
-		<title lang="zh">精彩音乐汇</title>
-	</programme>
 	<programme channel="风云音乐" start="20260326000100 +0800" stop="20260326003100 +0800">
 		<title lang="zh">风华国乐</title>
 	</programme>
@@ -8727,108 +8688,69 @@
 	<programme channel="风云音乐" start="20260326235500 +0800" stop="20260327002500 +0800">
 		<title lang="zh">风华国乐</title>
 	</programme>
+	<programme channel="风云音乐" start="20260327002500 +0800" stop="20260327070000 +0800">
+		<title lang="zh">一起音乐吧</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327070000 +0800" stop="20260327073000 +0800">
+		<title lang="zh">风华国乐</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327073000 +0800" stop="20260327083000 +0800">
+		<title lang="zh">精彩音乐汇</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327083000 +0800" stop="20260327093100 +0800">
+		<title lang="zh">合唱先锋:爱是永恒</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327093100 +0800" stop="20260327104100 +0800">
+		<title lang="zh">民歌·中国:春意融融的新年(2)</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327104100 +0800" stop="20260327114100 +0800">
+		<title lang="zh">一起音乐吧</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327114100 +0800" stop="20260327124100 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327124100 +0800" stop="20260327131100 +0800">
+		<title lang="zh">中国节拍</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327131100 +0800" stop="20260327141100 +0800">
+		<title lang="zh">合唱先锋:佳期如梦</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327141100 +0800" stop="20260327152200 +0800">
+		<title lang="zh">民歌·中国:春意融融的新年(1)</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327152200 +0800" stop="20260327162200 +0800">
+		<title lang="zh">一起音乐吧</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327162200 +0800" stop="20260327173800 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327173800 +0800" stop="20260327183800 +0800">
+		<title lang="zh">精彩音乐汇</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327183800 +0800" stop="20260327193900 +0800">
+		<title lang="zh">合唱先锋:放歌青春</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327193900 +0800" stop="20260327203900 +0800">
+		<title lang="zh">一起音乐吧</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327203900 +0800" stop="20260327210800 +0800">
+		<title lang="zh">春节联欢晚会歌舞节目集锦(1)</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327210800 +0800" stop="20260327213500 +0800">
+		<title lang="zh">春节联欢晚会歌舞节目集锦(2)</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327213500 +0800" stop="20260327225200 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327225200 +0800" stop="20260327235200 +0800">
+		<title lang="zh">精彩音乐汇</title>
+	</programme>
+	<programme channel="风云音乐" start="20260327235200 +0800" stop="20260328011400 +0800">
+		<title lang="zh">CCTV音乐厅:中国爱乐乐团音乐会</title>
+	</programme>
 	<channel id="天元围棋">
 		<display-name lang="zh">天元围棋</display-name>
 	</channel>
-	<programme channel="天元围棋" start="20260325003000 +0800" stop="20260325011100 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325011100 +0800" stop="20260325020000 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325020000 +0800" stop="20260325023000 +0800">
-		<title lang="zh">围棋入门技巧</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325023000 +0800" stop="20260325080000 +0800">
-		<title lang="zh">测试卡</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325080000 +0800" stop="20260325081000 +0800">
-		<title lang="zh">棋坛风云</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325081000 +0800" stop="20260325084500 +0800">
-		<title lang="zh">围棋入门技巧</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325084500 +0800" stop="20260325095000 +0800">
-		<title lang="zh">时局精解</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325095000 +0800" stop="20260325102000 +0800">
-		<title lang="zh">新棋思妙想</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325102000 +0800" stop="20260325103500 +0800">
-		<title lang="zh">棋坛风云</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325103500 +0800" stop="20260325111600 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325111600 +0800" stop="20260325120500 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325120500 +0800" stop="20260325124000 +0800">
-		<title lang="zh">围棋入门技巧</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325124000 +0800" stop="20260325131500 +0800">
-		<title lang="zh">围棋大赛赏析</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325131500 +0800" stop="20260325133000 +0800">
-		<title lang="zh">棋坛风云</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325133000 +0800" stop="20260325140500 +0800">
-		<title lang="zh">破空与治孤</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325140500 +0800" stop="20260325142000 +0800">
-		<title lang="zh">棋坛风云</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325142000 +0800" stop="20260325152000 +0800">
-		<title lang="zh">时局精解</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325152000 +0800" stop="20260325153000 +0800">
-		<title lang="zh">赛事直播</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325153000 +0800" stop="20260325161100 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325161100 +0800" stop="20260325170000 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325170000 +0800" stop="20260325173500 +0800">
-		<title lang="zh">新棋思妙想</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325173500 +0800" stop="20260325181000 +0800">
-		<title lang="zh">破空与治孤</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325181000 +0800" stop="20260325184500 +0800">
-		<title lang="zh">围棋大赛赏析</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325184500 +0800" stop="20260325192000 +0800">
-		<title lang="zh">围棋入门技巧</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325192000 +0800" stop="20260325195000 +0800">
-		<title lang="zh">新棋思妙想</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325195000 +0800" stop="20260325200000 +0800">
-		<title lang="zh">棋坛风云</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325200000 +0800" stop="20260325200500 +0800">
-		<title lang="zh">围棋精彩看点</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325200500 +0800" stop="20260325211000 +0800">
-		<title lang="zh">时局精解</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325211000 +0800" stop="20260325224000 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325224000 +0800" stop="20260325231500 +0800">
-		<title lang="zh">新棋思妙想</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325231500 +0800" stop="20260325234500 +0800">
-		<title lang="zh">破空与治孤</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325234500 +0800" stop="20260325235500 +0800">
-		<title lang="zh">棋坛风云</title>
-	</programme>
-	<programme channel="天元围棋" start="20260325235500 +0800" stop="20260326003000 +0800">
-		<title lang="zh">围棋大赛赏析</title>
-	</programme>
 	<programme channel="天元围棋" start="20260326003000 +0800" stop="20260326011900 +0800">
 		<title lang="zh">赛事精选</title>
 	</programme>
@@ -8935,6 +8857,108 @@
 		<title lang="zh">棋坛风云</title>
 	</programme>
 	<programme channel="天元围棋" start="20260326235500 +0800" stop="20260327003000 +0800">
+		<title lang="zh">围棋大赛赏析</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327003000 +0800" stop="20260327013300 +0800">
+		<title lang="zh">赛事精选</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327013300 +0800" stop="20260327020000 +0800">
+		<title lang="zh">赛事精选</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327020000 +0800" stop="20260327023000 +0800">
+		<title lang="zh">围棋入门技巧</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327023000 +0800" stop="20260327080000 +0800">
+		<title lang="zh">测试卡</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327080000 +0800" stop="20260327081000 +0800">
+		<title lang="zh">棋坛风云</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327081000 +0800" stop="20260327084500 +0800">
+		<title lang="zh">围棋入门技巧</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327084500 +0800" stop="20260327095000 +0800">
+		<title lang="zh">时局精解</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327095000 +0800" stop="20260327102000 +0800">
+		<title lang="zh">新棋思妙想</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327102000 +0800" stop="20260327103500 +0800">
+		<title lang="zh">棋坛风云</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327103500 +0800" stop="20260327113800 +0800">
+		<title lang="zh">赛事精选</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327113800 +0800" stop="20260327120500 +0800">
+		<title lang="zh">赛事精选</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327120500 +0800" stop="20260327124000 +0800">
+		<title lang="zh">围棋入门技巧</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327124000 +0800" stop="20260327131500 +0800">
+		<title lang="zh">围棋大赛赏析</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327131500 +0800" stop="20260327133000 +0800">
+		<title lang="zh">棋坛风云</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327133000 +0800" stop="20260327140500 +0800">
+		<title lang="zh">破空与治孤</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327140500 +0800" stop="20260327142000 +0800">
+		<title lang="zh">棋坛风云</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327142000 +0800" stop="20260327152000 +0800">
+		<title lang="zh">时局精解</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327152000 +0800" stop="20260327153000 +0800">
+		<title lang="zh">赛事直播</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327153000 +0800" stop="20260327163300 +0800">
+		<title lang="zh">赛事精选</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327163300 +0800" stop="20260327170000 +0800">
+		<title lang="zh">赛事精选</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327170000 +0800" stop="20260327173500 +0800">
+		<title lang="zh">新棋思妙想</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327173500 +0800" stop="20260327181000 +0800">
+		<title lang="zh">破空与治孤</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327181000 +0800" stop="20260327184500 +0800">
+		<title lang="zh">围棋大赛赏析</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327184500 +0800" stop="20260327192000 +0800">
+		<title lang="zh">围棋入门技巧</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327192000 +0800" stop="20260327195000 +0800">
+		<title lang="zh">新棋思妙想</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327195000 +0800" stop="20260327200000 +0800">
+		<title lang="zh">棋坛风云</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327200000 +0800" stop="20260327200500 +0800">
+		<title lang="zh">弈云学馆</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327200500 +0800" stop="20260327211000 +0800">
+		<title lang="zh">时局精解</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327211000 +0800" stop="20260327221200 +0800">
+		<title lang="zh">赛事精选</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327221200 +0800" stop="20260327224000 +0800">
+		<title lang="zh">赛事精选</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327224000 +0800" stop="20260327231500 +0800">
+		<title lang="zh">新棋思妙想</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327231500 +0800" stop="20260327234500 +0800">
+		<title lang="zh">破空与治孤</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327234500 +0800" stop="20260327235500 +0800">
+		<title lang="zh">棋坛风云</title>
+	</programme>
+	<programme channel="天元围棋" start="20260327235500 +0800" stop="20260328003000 +0800">
 		<title lang="zh">围棋大赛赏析</title>
 	</programme>
 </tv>
